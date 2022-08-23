@@ -38,7 +38,9 @@ Problem : We explore QAOA with CVAR approach for portfolio optimization applicat
 
 You can learn more about QAOA here: https://qiskit.org/textbook/ch-applications/qaoa.html
 
-Data Extraction:  We used Yahoo! Finance to get the historical data over 3 months of 10 Indian Stocks: 
+#### Data Extraction: 
+
+We used Yahoo! Finance to get the historical data over 3 months of 10 Indian Stocks: 
 
 
 MARUTI.NS , ONGC.NS, TATASTEEL.NS, HINDALCO.NS, ICICIBANK.NS, BRITANNIA.NS, ULTRACEMCO.NS, WIPRO.NS, APOLLOHOSP.NS, JUBLFOOD.NS
@@ -47,7 +49,7 @@ MARUTI.NS , ONGC.NS, TATASTEEL.NS, HINDALCO.NS, ICICIBANK.NS, BRITANNIA.NS, ULTR
 We used variance method to calculate individual stock risk and covariance to calculate the inter-related risk of all the stocks.
 You can have an indepth look at the data in the attached excel sheet (FINANCEDATA 3 MON.xlsx)
 
-Backends:
+#### Backends:
 
 
 We have initially solved the problem classically using NumPyMinimumEigenSolver(). Linear equality to penalty converter is used on the quadratic problem so that the constraints are taken into account in the objective, making the problem simpler. Converting to an ising model post that.We are using cobyla optimizer and qasm simulator in this case and CVaR expectation and hence, creating a list of alpha values.
