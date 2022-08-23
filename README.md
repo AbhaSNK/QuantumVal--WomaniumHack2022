@@ -1,30 +1,35 @@
 # QuantumVal
 
 
-Quantum approximate optimisation algorithms for real-world scenarios --> by Strangeworks
+## Quantum approximate optimisation algorithms for real-world scenarios --> by Strangeworks
 
- Name of the team : QuantumVal
+## Name of the team : QuantumVal
  
  
- Name of all the members : Grishma Prasad,Abha Naik & Shivani  Rajput
+### Name of all the members : Grishma Prasad,Abha Naik & Shivani  Rajput
 
 
-Grishma Prasad :
-                     Discord Id: Grishma#4171
-                     Github Id: https://github.com/gprs1809
-                     Email Id: 
+Grishma Prasad :  Discord Id: Grishma#4171
+                     
+                  Github Id: https://github.com/gprs1809
+                   
+                  Email Id: 
 
 
 Abha Naik :
-          Discord Id: ABHANAIKIM(IST)#5826
-                    Github Id: https://github.com/AbhaSNK
-                    Email Id: abhanaikimq@gmail.com
+                  Discord Id: ABHANAIKIM(IST)#5826
+                  
+                  Github Id: https://github.com/AbhaSNK
+                    
+                  Email Id: abhanaikimq@gmail.com
 
 
 Shivani Rajput :
-          Discord Id: Shivani Rajput#6848
-                    Github Id: https://github.com/ShivaniRajput11
-                    Email Id: shivanirajput1880@gmail.com
+                  Discord Id: Shivani Rajput#6848
+                  
+                  Github Id: https://github.com/ShivaniRajput11
+                    
+                  Email Id: shivanirajput1880@gmail.com
 
 
 
